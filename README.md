@@ -3,4 +3,7 @@
 
 ## Algospot(종만북)
 ### 브루트포스
-BOGGLE: [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/BOGGLE.md)
+#### BOGGLE
+[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/BOGGLE.md)
+#### PICNIC
+[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/PICNIC.md)
