@@ -16,6 +16,14 @@ rl = lambda: list(map(int, input().strip().split(' ')))
 ```
 strip을 이용해 해결.
 
+## 기타
+```python
+taken[pair_with], taken[first_free] = True, True
+count += count_pairings(taken, n_student)
+taken[pair_with], taken[first_free] = False, False
+```
+이렇게 짜면 함수가 끝나고 나서 다시 수정 전 상태로 돌아오는 것을 이용할 수 있음.
+
 ## 정답 코드
 ```python
 def total_methods(student_li, pair_li):
