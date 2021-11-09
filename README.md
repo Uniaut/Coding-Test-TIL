@@ -7,3 +7,5 @@
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/BOGGLE.md)
 #### PICNIC
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/PICNIC.md)
+#### BOARDCOVER
+[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/BOARDCOVER.md)
