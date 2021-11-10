@@ -9,3 +9,5 @@
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/PICNIC.md)
 #### BOARDCOVER
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/BOARDCOVER.md)
+#### CLOCKSYNC
+[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/CLOCKSYNC.md)
