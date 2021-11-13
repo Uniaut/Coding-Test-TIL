@@ -11,3 +11,6 @@
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/BOARDCOVER.md)
 #### CLOCKSYNC
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/CLOCKSYNC.md)
+### 분할 정복
+#### Karatsuba 곱셈 알고리즘
+[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/Karatsuba.md)
