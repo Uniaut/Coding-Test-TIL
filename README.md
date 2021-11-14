@@ -14,3 +14,5 @@
 ### 분할 정복
 #### Karatsuba 곱셈 알고리즘
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/Karatsuba.md)
+#### QUADTREE
+[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/QUADTREE.md)
