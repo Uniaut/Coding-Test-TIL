@@ -16,3 +16,5 @@
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/Karatsuba.md)
 #### QUADTREE
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/QUADTREE.md)
+#### FENCE
+[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/FENCE.md)
