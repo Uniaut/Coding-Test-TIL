@@ -18,3 +18,5 @@
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/QUADTREE.md)
 #### FENCE
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/FENCE.md)
+#### FANMEETING
+[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/FANMEETING.md)
