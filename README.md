@@ -3,27 +3,17 @@
 
 ## Algospot(종만북)
 ### 브루트포스
-#### BOGGLE
-[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/BOGGLE.md)
-#### PICNIC
-[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/PICNIC.md)
-#### BOARDCOVER
-[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/BOARDCOVER.md)
-#### CLOCKSYNC
-[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/CLOCKSYNC.md)
+* BOGGLE [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/BOGGLE.md)
+* PICNIC [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/PICNIC.md)
+* BOARDCOVER [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/BOARDCOVER.md)
+* CLOCKSYNC [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/CLOCKSYNC.md)
 ### 분할 정복
-#### Karatsuba 곱셈 알고리즘
-[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/Karatsuba.md)
-#### QUADTREE
-[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/QUADTREE.md)
-#### FENCE
-[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/FENCE.md)
-#### FANMEETING
-[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/FANMEETING.md)
+* Karatsuba 곱셈 알고리즘 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/Karatsuba.md)
+* QUADTREE [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/QUADTREE.md)
+* FENCE [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/FENCE.md)
+* FANMEETING [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/FANMEETING.md)
 ### 동적 계획법
-#### JUMPGAME
-[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/JUMPGAME.md)
-#### WILDCARD
-[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/WILDCARD.md)
-#### TRIANGLEPATH
-[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/TRIANGLEPATH.md)
+* JUMPGAME [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/JUMPGAME.md)
+* WILDCARD [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/WILDCARD.md)
+* TRIANGLEPATH [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/TRIANGLEPATH.md)
+* LIS [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/LIS.md)
