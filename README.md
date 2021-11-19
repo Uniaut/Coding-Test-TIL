@@ -23,3 +23,5 @@
 ### 동적 계획법
 #### JUMPGAME
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/JUMPGAME.md)
+#### WILDCARD
+[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/WILDCARD.md)
