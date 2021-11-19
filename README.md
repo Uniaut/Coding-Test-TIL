@@ -25,3 +25,5 @@
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/JUMPGAME.md)
 #### WILDCARD
 [Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/WILDCARD.md)
+#### TRIANGLEPATH
+[Link](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/TRIANGLEPATH.md)
