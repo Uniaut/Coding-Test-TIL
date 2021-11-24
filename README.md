@@ -18,3 +18,4 @@
 * TRIANGLEPATH [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/TRIANGLEPATH.md)
 * LIS [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/LIS.md)
 * JLIS [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/JLIS.md)
+* PI [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/PI.md)
