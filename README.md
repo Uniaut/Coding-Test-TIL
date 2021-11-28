@@ -22,3 +22,4 @@
 
 ## BOJ(백준)
 * 1로 만들기 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1463.md)
+* 나는야 포켓몬 마스터 이다솜 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1620.md)
