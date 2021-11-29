@@ -25,3 +25,4 @@
 * 나는야 포켓몬 마스터 이다솜 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1620.md)
 * 숨바꼭질 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1697.md)
 * 최소 힙 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1927.md)
+* 회의실 배정 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1931.md)
