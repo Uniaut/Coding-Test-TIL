@@ -28,3 +28,4 @@
 * 회의실 배정 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1931.md)
 * 바이러스 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/2606.md)
 * 색종이 만들기 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/2630.md)
+* 토마토 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/7576.md)
