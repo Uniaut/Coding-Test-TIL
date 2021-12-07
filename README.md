@@ -30,3 +30,5 @@
 * 색종이 만들기 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/2630.md)
 * 토마토 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/7576.md)
 * 최대 힙 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/11279.md)
+* 이중 우선순위 큐 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/7662.md)
+* 연결 요소의 개수 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/11724.md)
