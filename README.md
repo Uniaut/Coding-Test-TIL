@@ -32,3 +32,4 @@
 * 최대 힙 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/11279.md)
 * 이중 우선순위 큐 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/7662.md)
 * 연결 요소의 개수 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/11724.md)
+* 좌표 압축 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/18870.md)
