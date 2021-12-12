@@ -1,18 +1,27 @@
 # Algorithm-Study-Archive
 알고리즘 공부한 내용을 정리하는 곳
 
-## Algospot(종만북)
-### 브루트포스
+* [Algospot](#algospot)
+  + [Bruteforce](#Bruteforce)
+  + [Divide and conquer](#Divide-and-conquer)
+  + [Dynamic programming](#Dynamic-programming)
+* [BOJ(백준)](#boj----)
+  + [Class 3](#class-3)
+  + [Class 4](#class-4)
+* [Programmers](#programmers)
+   
+## Algospot
+### Bruteforce
 * BOGGLE [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/BOGGLE.md)
 * PICNIC [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/PICNIC.md)
 * BOARDCOVER [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/BOARDCOVER.md)
 * CLOCKSYNC [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/CLOCKSYNC.md)
-### 분할 정복
+### Divide and conquer
 * Karatsuba 곱셈 알고리즘 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/Karatsuba.md)
 * QUADTREE [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/QUADTREE.md)
 * FENCE [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/FENCE.md)
 * FANMEETING [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/FANMEETING.md)
-### 동적 계획법
+### Dynamic programming
 * JUMPGAME [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/JUMPGAME.md)
 * WILDCARD [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/WILDCARD.md)
 * TRIANGLEPATH [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Algospot/TRIANGLEPATH.md)
@@ -36,3 +45,6 @@
 * 좌표 압축 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/18870.md)
 ### Class 4
 * coming soon
+
+## Programmers
+* 신규 아이디 추천 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/new_id_recommendation.md)
