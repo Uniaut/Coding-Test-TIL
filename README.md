@@ -48,3 +48,4 @@
 
 ## Programmers
 * 신규 아이디 추천 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/new_id_recommendation.md)
+* 도둑질[[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/thievery.md)
