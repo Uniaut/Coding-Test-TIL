@@ -44,7 +44,7 @@
 * 연결 요소의 개수 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/11724.md)
 * 좌표 압축 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/18870.md)
 ### Class 4
-* coming soon
+* 평범한 배낭 [[link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/12865.md)
 
 ## Programmers
 * 신규 아이디 추천 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/new_id_recommendation.md)
