@@ -51,3 +51,4 @@
 * 도둑질 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/thievery.md)
 * 가사 검색 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/lyrics_search.md)
 * 징검다리 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/stepping_stones.md)
+* 메뉴 리뉴얼 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/menu_renewal.md)
