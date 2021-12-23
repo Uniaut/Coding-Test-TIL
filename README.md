@@ -52,3 +52,4 @@
 * 가사 검색 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/lyrics_search.md)
 * 징검다리 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/stepping_stones.md)
 * 메뉴 리뉴얼 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/menu_renewal.md)
+* 순위 검색 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/edit/main/Programmers/rank_search.md)
