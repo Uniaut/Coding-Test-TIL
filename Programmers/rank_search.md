@@ -1,4 +1,4 @@
-# 가사 검색
+# 순위 검색
 2021 KAKAO BLIND RECRUITMENT 3번 문제
 [[Link]](https://programmers.co.kr/learn/courses/30/lessons/72412)
 
