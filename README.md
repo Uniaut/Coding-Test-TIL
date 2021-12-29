@@ -47,6 +47,7 @@
 * 평범한 배낭 [[link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/12865.md)
 * RGB거리 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1149.md)
 * 트리의 순회 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/2263.md)
+* N-Queen [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/9663.md)
 ## Programmers
 * 신규 아이디 추천 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/new_id_recommendation.md)
 * 도둑질 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/thievery.md)
