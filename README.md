@@ -49,6 +49,8 @@
 * 트리의 순회 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/2263.md)
 * N-Queen [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/9663.md)
 * 피보나치 수열 6 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/11444.md)
+### Class 5
+* 스도쿠 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/2239.md)
 
 ## Programmers
 * 신규 아이디 추천 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/new_id_recommendation.md)
