@@ -50,6 +50,7 @@
 * N-Queen [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/9663.md)
 * 피보나치 수열 6 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/11444.md)
 * 트리의 부모찾기 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/11725.md)
+* 스티커 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/9465.md)
 ### Class 5
 * 스도쿠 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/2239.md)
 
