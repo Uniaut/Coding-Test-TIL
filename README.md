@@ -53,6 +53,7 @@
 * 스티커 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/9465.md)
 * 트리의 지름 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1167.md)
 * LCS [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/9251.md)
+* 플로이드 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/11404.md)
 ### Class 5
 * 스도쿠 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/2239.md)
 
