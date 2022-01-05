@@ -56,6 +56,8 @@
 * 플로이드 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/11404.md)
 ### Class 5
 * 스도쿠 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/2239.md)
+### Class 6
+* 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/edit/main/BOJ/2357.md)
 
 ## Programmers
 * 신규 아이디 추천 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/Programmers/new_id_recommendation.md)
