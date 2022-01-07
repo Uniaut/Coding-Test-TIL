@@ -58,6 +58,8 @@
 * 웜홀 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1865.md)
 * 후위표기식 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1927.md)
 * 숨바꼭질 3 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/13549.md)
+* 벽 부수고 이동하기 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/2206.md)
+
 ### Class 5
 * 스도쿠 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/2239.md)
 ### Class 6
