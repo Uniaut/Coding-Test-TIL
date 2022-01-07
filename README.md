@@ -57,6 +57,7 @@
 * 최단거리 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1753.md)
 * 웜홀 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1865.md)
 * 후위표기식 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/1927.md)
+* 숨바꼭질 3 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/13549.md)
 ### Class 5
 * 스도쿠 [[Link]](https://github.com/Uniaut/Algorithm-Study-Archive/blob/main/BOJ/2239.md)
 ### Class 6
