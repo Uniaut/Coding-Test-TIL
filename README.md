@@ -63,7 +63,7 @@
 ### Class 5
 * 스도쿠 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2239.md)
 ### Class 6
-* 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/edit/main/BOJ/2357.md)
+* 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
 
 ## Programmers
 * 신규 아이디 추천 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/new_id_recommendation.md)
