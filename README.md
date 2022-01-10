@@ -8,6 +8,8 @@
 * [BOJ(백준)](#boj----)
   + [Class 3](#class-3)
   + [Class 4](#class-4)
+  + [Class 3](#class-5)
+  + [Class 4](#class-6)
 * [Programmers](#programmers)
    
 ## Algospot
