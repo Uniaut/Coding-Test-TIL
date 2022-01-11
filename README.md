@@ -67,6 +67,7 @@
 * 다각형의 면적 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2166.md)
 * 선분 교차 2 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/17387.md)
 * 최소 스패닝 트리 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1197.md)
+* 보석 도둑 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1202.md)
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
 
