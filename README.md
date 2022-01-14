@@ -72,6 +72,7 @@
 * 부분합 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1806.md)
 * 외판원 순회 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2098.md)
 * 줄 세우기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2252.md)
+* 세 용액 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2473.md)
 
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
