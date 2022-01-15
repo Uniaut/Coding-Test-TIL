@@ -77,6 +77,9 @@
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
 
+### 기타
+* 2022는 무엇이 특별할까? [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/24268.md)
+
 ## Programmers
 * 신규 아이디 추천 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/new_id_recommendation.md)
 * 도둑질 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/thievery.md)
