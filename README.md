@@ -79,6 +79,7 @@
 
 ### 기타
 * 2022는 무엇이 특별할까? [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/24268.md)
+* 랜드마크 건설 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/24269.md)
 
 ## Programmers
 * 신규 아이디 추천 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/new_id_recommendation.md)
