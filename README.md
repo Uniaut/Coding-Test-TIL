@@ -74,6 +74,7 @@
 * 줄 세우기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2252.md)
 * 세 용액 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2473.md)
 * 음악 프로그램 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2623.md)
+* 가장 긴 증가하는 부분수열 5 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/14003.md)
 
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
