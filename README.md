@@ -77,6 +77,7 @@
 * 가장 긴 증가하는 부분수열 5 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/14003.md)
 * 앱 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/7579.md)
 * LCS 2 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/9252.md)
+* 텀 프로젝트 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/9466.md)
 
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
