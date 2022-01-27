@@ -95,3 +95,4 @@
 * 순위 검색 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/edit/main/Programmers/rank_search.md)
 * 합승 택시 요금 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/taxi_fare.md)
 * 카드 짝 맞추기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/card_pair_match.md)
+* 신고 결과 받기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/receiving_report_result.md)
