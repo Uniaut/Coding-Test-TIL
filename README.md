@@ -96,3 +96,4 @@
 * 합승 택시 요금 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/taxi_fare.md)
 * 카드 짝 맞추기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/card_pair_match.md)
 * 신고 결과 받기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/receiving_report_result.md)
+* k진수에서 소수 개수 구하기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/n_prime_in_base_k.md)
