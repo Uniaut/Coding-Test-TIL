@@ -61,6 +61,7 @@
 * 후위표기식 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1927.md)
 * 숨바꼭질 3 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/13549.md)
 * 벽 부수고 이동하기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2206.md)
+* 치즈 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2638.md)
 
 ### Class 5
 * 스도쿠 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2239.md)
