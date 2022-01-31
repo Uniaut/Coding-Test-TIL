@@ -79,6 +79,7 @@
 * 앱 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/7579.md)
 * LCS 2 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/9252.md)
 * 텀 프로젝트 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/9466.md)
+* 행렬곱셈순서 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/11049.md)
 
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
