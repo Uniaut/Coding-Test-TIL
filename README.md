@@ -103,3 +103,4 @@
 * k진수에서 소수 개수 구하기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/n_prime_in_base_k.md)
 * 주차 요금 계산 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/parking_fee_calculation.md)
 * 양궁대회 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/archery_contest.md)
+* 양과 늑대 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/sheep_and_wolf.md)
