@@ -105,3 +105,4 @@
 * 양궁대회 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/archery_contest.md)
 * 양과 늑대 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/sheep_and_wolf.md)
 * 파괴되지 않은 건물 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/building_not_destroyed.md)
+* 사라지는 발판 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/vanishing_plate.md)
