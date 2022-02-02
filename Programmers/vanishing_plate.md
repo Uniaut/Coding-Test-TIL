@@ -1,4 +1,4 @@
-# 사라지는 
+# 사라지는 발판
 **문제 출처: KAKAO BLIND 2022 1차 7번**
 
 [Link](https://programmers.co.kr/learn/courses/30/lessons/92345)
