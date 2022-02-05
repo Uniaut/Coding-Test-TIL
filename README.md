@@ -82,6 +82,7 @@
 * 행렬곱셈순서 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/11049.md)
 * 2048(Easy) [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/12100.md)
 * 구슬 탈출 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/13460.md)
+* 팰린드롬? [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/10942.md)
 
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
