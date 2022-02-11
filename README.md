@@ -86,6 +86,7 @@
 * 열쇠 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/9328.md)
 * 알파벳 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1987.md)
 * 행성 터널 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2887.md)
+* 벡터  [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1007.md)
 
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
