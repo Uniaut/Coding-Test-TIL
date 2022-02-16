@@ -90,6 +90,7 @@
 * 계단 수 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1562.md)
 * 소수의 연속합 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1644.md)
 * 도시 분할 계획 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1647.md)
+* 문제집 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1766.md)
 
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
