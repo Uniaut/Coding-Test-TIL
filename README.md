@@ -94,6 +94,7 @@
 * 문제집 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1766.md)
 * 비숍 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1799.md)
 * 두 배열의 합 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2143.md)
+* 선분 그룹 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2162.md)
 
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
