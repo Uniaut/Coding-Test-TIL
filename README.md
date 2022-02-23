@@ -95,6 +95,7 @@
 * 비숍 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1799.md)
 * 두 배열의 합 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2143.md)
 * 선분 그룹 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2162.md)
+* Dance Dance Revolution [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2342.md)
 
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
@@ -106,9 +107,9 @@
 ## Programmers
 * 도둑질 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/thievery.md)
 * 가사 검색 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/lyrics_search.md)
+* 징검다리 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/stepping_stones.md)
 ### KAKAO BLIND 2021 1차
 * 신규 아이디 추천 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/new_id_recommendation.md)
-* 징검다리 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/stepping_stones.md)
 * 메뉴 리뉴얼 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/menu_renewal.md)
 * 순위 검색 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/edit/main/Programmers/rank_search.md)
 * 합승 택시 요금 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/Programmers/taxi_fare.md)
