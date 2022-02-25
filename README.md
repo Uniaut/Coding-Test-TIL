@@ -97,6 +97,7 @@
 * 선분 그룹 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2162.md)
 * Dance Dance Revolution [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2342.md)
 * 전깃줄 - 2 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2568.md)
+* 별자리 만들기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/4386.md)
 
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
