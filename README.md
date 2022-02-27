@@ -99,6 +99,7 @@
 * 전깃줄 - 2 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2568.md)
 * 별자리 만들기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/4386.md)
 * 1의 개수 세기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/9527.md)
+* 공항 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/10775.md)
 
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
