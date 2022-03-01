@@ -101,6 +101,7 @@
 * 1의 개수 세기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/9527.md)
 * 공항 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/10775.md)
 * 본대 산책2 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/12850.md)
+* 불 끄기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/14939.md)
 
 ### Class 6
 * 최솟값과 최댓값 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2357.md)
