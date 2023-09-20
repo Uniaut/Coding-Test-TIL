@@ -63,6 +63,7 @@
 * 벽 부수고 이동하기 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2206.md)
 * 치즈 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2638.md)
 * 거짓말 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/1043.md)
+* N과 M (9) [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/15663.md)
 
 ### Class 5
 * 스도쿠 [[Link]](https://github.com/Uniaut/Coding-Test-TIL/blob/main/BOJ/2239.md)
